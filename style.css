@@ -50,6 +50,8 @@ header{
     list-style: none;
     position: absolute;
     left: 720px;
+    font-size: 18px;
+    gap: 4px;
 }
 
 .nav li{
@@ -74,7 +76,7 @@ header{
 .nav li a:hover{
     color: var(--terciary);
    text-shadow: 1px solid white;
-   font-weight: 800;
+   font-weight: 600;
    letter-spacing: 1px;
    transition: 0.3s;
 }
